@@ -1,22 +1,21 @@
 ---
-title: Welcome to the Mailchimp Content Style Guide
+title: Zilliant Content Style Guide
 layout: article
 ---
 
-This style guide was created for Mailchimp employees, but we hope it’s helpful for other content and communications teams too.
+If you write, edit, or review customer-facing content for Zilliant documentation or applications, this guide is for you.
 
-## If you work at Mailchimp
+## Using this guide
 
-This is our company style guide. It helps us write clear and consistent content across teams and channels. Please use it as a reference when you’re writing for Mailchimp.
+This is the Zilliant technical content style guide. It helps us write clear and consistent content for applications and product documentation.
 
-This guide goes beyond basic grammar and style points. It’s not traditional in format or content. We break a number of grammar rules for clarity, practicality, or preference.
+We’ve divided the guide by topic based on the types of content we publish. The entire guide is searchable.
 
-We’ve divided the guide by topic based on the types of content we publish, so you can reference it as needed or browse in order. The entire guide is searchable, so you can go straight to the item you’re looking for.
+## Resources
 
-## If you work at another organization
+Zilliant style starts with the standard guidelines in the <a href="https://learn.microsoft.com/en-us/style-guide/welcome/" target="_blank">Microsoft Writing Style Guide</a>. 
+We've developed our voice, tone, and standards based on our preferences, or to match the unique characteristics of our business.
 
-We invite you to use and adapt this style guide as you see fit. It’s completely public and available under a Creative Commons Attribution-NonCommercial 4.0 International license. All we ask is that you credit Mailchimp.
+## Credits
 
-We welcome any feedback for improving the guide.
-
-[Mailchimp Content Style Guide on GitHub](https://github.com/mailchimp/content-style-guide)
+We adapted this guide from the [Mailchimp Content Style Guide on GitHub](https://github.com/mailchimp/content-style-guide). We gratefully acknowledge their openly sharing their guidelines and work. We are better writers and content developers as a result.
